@@ -1,0 +1,148 @@
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\appsettings.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.exe
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.deps.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.runtimeconfig.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Application.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Domain.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Application.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Application.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Domain.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Domain.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.csproj.AssemblyReference.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.AssemblyInfoInputs.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.AssemblyInfo.cs
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.csproj.CoreCompileInputs.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.DatabaseConnectSQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.build.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\scopedcss\bundle\DatabaseConnectSQL.styles.css
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\Database.47476C0C.Up2Date
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\refint\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.genruntimeconfig.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\obj\Debug\net8.0\ref\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\Dapper.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\MediatR.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL\DatabaseConnect\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\appsettings.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.exe
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.deps.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.runtimeconfig.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\DatabaseConnectSQL.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Dapper.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\MediatR.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Application.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Domain.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Application.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Application.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Domain.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Domain.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Infrasturcture.dll.config
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.csproj.AssemblyReference.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.AssemblyInfoInputs.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.AssemblyInfo.cs
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.csproj.CoreCompileInputs.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.DatabaseConnectSQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.build.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatabaseConnectSQL.props
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\scopedcss\bundle\DatabaseConnectSQL.styles.css
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\Database.47476C0C.Up2Date
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\refint\DatabaseConnectSQL.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.pdb
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\DatabaseConnectSQL.genruntimeconfig.cache
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\obj\Debug\net8.0\ref\DatabaseConnectSQL.dll

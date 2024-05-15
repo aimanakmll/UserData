@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\DatabaseConnectSQL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\DatabaseConnectSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\DatabaseConnectSQL.csproj",
+        "projectName": "DatabaseConnectSQL",
+        "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\DatabaseConnectSQL.csproj",
+        "packagesPath": "C:\\Users\\Akmal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akmal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\Infrasturcture.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\Infrasturcture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\Infrasturcture.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\Infrasturcture.csproj",
+        "projectName": "Infrasturcture",
+        "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\Infrasturcture.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

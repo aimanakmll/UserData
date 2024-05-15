@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\application\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\application\\handlers\\commandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\handlers\\commandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\databaseconnect\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|solutionrelative:databaseconnect\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\infrasturcture\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|solutionrelative:infrasturcture\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\infrasturcture\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|solutionrelative:infrasturcture\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\databaseconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|solutionrelative:databaseconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\SQLDatabase.cs",
+              "RelativeDocumentMoniker": "Infrasturcture\\SQLDatabase.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\SQLDatabase.cs",
+              "RelativeToolTip": "Infrasturcture\\SQLDatabase.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wCwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:38:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
+              "RelativeDocumentMoniker": "DatabaseConnect\\userController.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
+              "RelativeToolTip": "DatabaseConnect\\userController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwCEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:52:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\Program.cs",
+              "RelativeToolTip": "DatabaseConnect\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:52:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MYSQLDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\MYSQLDatabase.cs",
+              "RelativeDocumentMoniker": "Infrasturcture\\MYSQLDatabase.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\MYSQLDatabase.cs",
+              "RelativeToolTip": "Infrasturcture\\MYSQLDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:32:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Handlers\\CommandHandlers.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\CommandHandlers.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Handlers\\CommandHandlers.cs",
+              "RelativeToolTip": "Application\\Handlers\\CommandHandlers.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:04:42.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "commands.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Commands\\commands.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\commands.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Commands\\commands.cs",
+              "RelativeToolTip": "Application\\Commands\\commands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:04:17.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
