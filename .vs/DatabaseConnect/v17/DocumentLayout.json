@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\application\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\application\\handlers\\commandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\handlers\\commandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\databaseconnect\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|solutionrelative:databaseconnect\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\infrasturcture\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|solutionrelative:infrasturcture\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\application\\encryptions\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\encryptions\\aesencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\infrasturcture\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DD95892-4B36-4F41-A036-50788C54237C}|Infrasturcture\\Infrasturcture.csproj|solutionrelative:infrasturcture\\mysqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\application\\encryptions\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\encryptions\\rsaencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\databaseconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B2BDA5-7A2E-4FE0-8AE3-ED119FEDA980}|DatabaseConnect\\DatabaseConnectSQL.csproj|solutionrelative:databaseconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A37EA4-768B-48F5-9093-F269CFCCE0EA}|Domain\\Domain.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A37EA4-768B-48F5-9093-F269CFCCE0EA}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|c:\\users\\akmal\\source\\repos\\databaseconnectmysqlmssql - mediator\\application\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FECFC-7C0F-494D-A427-CFC1468E6786}|Application\\Application.csproj|solutionrelative:application\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,77 +47,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SQLDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\SQLDatabase.cs",
-              "RelativeDocumentMoniker": "Infrasturcture\\SQLDatabase.cs",
-              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\SQLDatabase.cs",
-              "RelativeToolTip": "Infrasturcture\\SQLDatabase.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAA9wCwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:38:13.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "userController.cs",
-              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
-              "RelativeDocumentMoniker": "DatabaseConnect\\userController.cs",
-              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
-              "RelativeToolTip": "DatabaseConnect\\userController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwCEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T01:52:55.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\Program.cs",
               "RelativeDocumentMoniker": "DatabaseConnect\\Program.cs",
               "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\Program.cs",
               "RelativeToolTip": "DatabaseConnect\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABQAAAAMAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T01:52:01.206Z"
+              "WhenOpened": "2024-05-17T02:05:57.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MYSQLDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\MYSQLDatabase.cs",
-              "RelativeDocumentMoniker": "Infrasturcture\\MYSQLDatabase.cs",
-              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Infrasturcture\\MYSQLDatabase.cs",
-              "RelativeToolTip": "Infrasturcture\\MYSQLDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABDAAAA",
+              "DocumentIndex": 5,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encrypt.cs",
+              "RelativeDocumentMoniker": "Application\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encrypt.cs",
+              "RelativeToolTip": "Application\\Encrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:32:24.653Z"
+              "WhenOpened": "2024-05-17T00:43:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSAEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encryptions\\RSAEncryption.cs",
+              "RelativeDocumentMoniker": "Application\\Encryptions\\RSAEncryption.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encryptions\\RSAEncryption.cs",
+              "RelativeToolTip": "Application\\Encryptions\\RSAEncryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:42:47.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CommandHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Handlers\\CommandHandlers.cs",
-              "RelativeDocumentMoniker": "Application\\Handlers\\CommandHandlers.cs",
-              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Handlers\\CommandHandlers.cs",
-              "RelativeToolTip": "Application\\Handlers\\CommandHandlers.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwDcAAAANAAAA",
+              "Title": "AESEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encryptions\\AESEncryption.cs",
+              "RelativeDocumentMoniker": "Application\\Encryptions\\AESEncryption.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Encryptions\\AESEncryption.cs",
+              "RelativeToolTip": "Application\\Encryptions\\AESEncryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:04:42.366Z",
+              "WhenOpened": "2024-05-17T00:38:34.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:34:05.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "commands.cs",
-              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Commands\\commands.cs",
-              "RelativeDocumentMoniker": "Application\\Commands\\commands.cs",
-              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\Application\\Commands\\commands.cs",
-              "RelativeToolTip": "Application\\Commands\\commands.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
+              "RelativeDocumentMoniker": "DatabaseConnect\\userController.cs",
+              "ToolTip": "C:\\Users\\Akmal\\source\\repos\\DatabaseConnectMYSQLMSSQL - mediator\\DatabaseConnect\\userController.cs",
+              "RelativeToolTip": "DatabaseConnect\\userController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wDkAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:04:17.63Z",
+              "WhenOpened": "2024-05-16T09:07:29.937Z",
               "EditorCaption": ""
             }
           ]

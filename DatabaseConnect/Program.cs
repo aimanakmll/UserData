@@ -1,9 +1,11 @@
 using Application;
 using Application.CommandHandlers;
 using Application.Commands;
+using Application.Encryptions;
 using Domain;
 using Infrastructure;
 using MediatR;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -53,6 +55,26 @@ var serviceProvider = builder.Services.BuildServiceProvider();
 
 // Resolve the IMediator instance
 var mediator = serviceProvider.GetService<IMediator>();
+
+// Register Serilog
+Log.Logger = new LoggerConfiguration()
+    .MinimumLevel.Debug()
+    .WriteTo.Console()
+    .WriteTo.File("logs/log.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+// Register encryption services
+string encryptionKey = "ENC"; // Ideally, this should be securely generated or fetched
+builder.Services.AddSingleton<AESEncryption>(new AESEncryption(encryptionKey));
+// Register RSA encryption service
+builder.Services.AddScoped<RSAEncryption>();
+
+
+//var encryptionKey = "ENC"; // Replace with a secure key from configuration
+//builder.Services.AddSingleton<Encrypt>(new AESEncryption(encryptionKey));
+//builder.Services.AddSingleton<RSAEncryption>();
 
 var app = builder.Build();
 

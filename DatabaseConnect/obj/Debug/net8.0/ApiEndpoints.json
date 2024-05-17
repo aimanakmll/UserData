@@ -1,6 +1,27 @@
 [
   {
     "ContainingType": "API.Controllers.UserController",
+    "Method": "EncryptPassword",
+    "RelativePath": "api/User/encrypt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "encryptionType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "encryptionRequest",
+        "Type": "Domain.UserEncrypt",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UserController",
     "Method": "Insert",
     "RelativePath": "api/User/Insert",
     "HttpMethod": "POST",
