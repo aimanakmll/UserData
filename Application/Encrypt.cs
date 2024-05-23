@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Application
 {
+    //abstract class for encrypt and decryption
     public abstract class Encrypt
     {
         public abstract string EncryptPassword(string key);

@@ -24,6 +24,18 @@ namespace Application.Commands
         public string Servertype { get; set; }
     }
 
+    public class EncryptPasswordCommand : IRequest<string>
+    {
+        public string EncryptionType { get; set; }
+        public string Password { get; set; }
+    }
+
+    public class DecryptPasswordCommand : IRequest<string>
+    {
+        public string EncryptionType { get; set; }
+        public string EncryptedPassword { get; set; }
+    }
+
 }
 
 

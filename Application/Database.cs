@@ -7,6 +7,7 @@ using Domain;
 
 namespace Application
 {
+    //abstract class for the CRUD Functions
     public abstract class Database
     {
         public abstract List<T> Select<T>(string tablename);

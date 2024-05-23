@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Threading;
 using System;
+using Application.Encryptions;
 
 
 namespace Application.CommandHandlers
@@ -95,7 +96,59 @@ namespace Application.CommandHandlers
         }
     }
 
+    public class EncryptPasswordCommandHandler : IRequestHandler<EncryptPasswordCommand, string>
+    {
+        private readonly AESEncryption _aesEncryption;
+        private readonly RSAEncryption _rsaEncryption;
 
+        public EncryptPasswordCommandHandler(AESEncryption aesEncryption, RSAEncryption rsaEncryption)
+        {
+            _aesEncryption = aesEncryption;
+            _rsaEncryption = rsaEncryption;
+        }
 
+        public Task<string> Handle(EncryptPasswordCommand request, CancellationToken cancellationToken)
+        {
+            if (request.EncryptionType.Equals("AES", StringComparison.OrdinalIgnoreCase))
+            {
+                return Task.FromResult(_aesEncryption.EncryptPassword(request.Password));
+            }
+            else if (request.EncryptionType.Equals("RSA", StringComparison.OrdinalIgnoreCase))
+            {
+                return Task.FromResult(_rsaEncryption.EncryptPassword(request.Password));
+            }
+            else
+            {
+                throw new ArgumentException("Invalid encryption type. Choose 'AES' or 'RSA'.");
+            }
+        }
+    }
+    public class DecryptPasswordCommandHandler : IRequestHandler<DecryptPasswordCommand, string>
+    {
+        private readonly AESEncryption _aesEncryption;
+        private readonly RSAEncryption _rsaEncryption;
+
+        public DecryptPasswordCommandHandler(AESEncryption aesEncryption, RSAEncryption rsaEncryption)
+        {
+            _aesEncryption = aesEncryption;
+            _rsaEncryption = rsaEncryption;
+        }
+
+        public Task<string> Handle(DecryptPasswordCommand request, CancellationToken cancellationToken)
+        {
+            if (request.EncryptionType.Equals("AES", StringComparison.OrdinalIgnoreCase))
+            {
+                return Task.FromResult(_aesEncryption.DecryptPassword(request.EncryptedPassword));
+            }
+            else if (request.EncryptionType.Equals("RSA", StringComparison.OrdinalIgnoreCase))
+            {
+                return Task.FromResult(_rsaEncryption.DecryptPassword(request.EncryptedPassword));
+            }
+            else
+            {
+                throw new ArgumentException("Invalid encryption type. Choose 'AES' or 'RSA'.");
+            }
+        }
+    }
 }
 

@@ -171,3 +171,17 @@ C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect
 C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Owin.dll
 C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\grpc_csharp_ext.x86.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\grpc_csharp_ext.x64.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\libgrpc_csharp_ext.x64.so
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\libgrpc_csharp_ext.x64.dylib
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Akmal\source\repos\DatabaseConnectMYSQLMSSQL - mediator\DatabaseConnect\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll

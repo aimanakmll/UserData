@@ -6,7 +6,7 @@ using Domain;
 using System.Data.SqlClient;
 using Dapper;
 using System.Linq;
-
+using System.Reflection;
 
 namespace Infrastructure
 {
@@ -18,7 +18,7 @@ namespace Infrastructure
         {
             _connectionString = connectionString;
         }
-
+         
         public override List<T> Select<T>(string User)
         {
             using(var mySqlConnection = new MySqlConnection(_connectionString))

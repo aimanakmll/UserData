@@ -2,7 +2,7 @@
   {
     "ContainingType": "API.Controllers.UserController",
     "Method": "EncryptPassword",
-    "RelativePath": "api/User/encrypt",
+    "RelativePath": "api/User/encrypt-decrypt",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

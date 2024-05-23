@@ -5,7 +5,9 @@ using Application.Encryptions;
 using Domain;
 using Infrastructure;
 using MediatR;
+using OpenTelemetry.Trace;
 using Serilog;
+using OpenTelemetry.Resources;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -71,10 +73,18 @@ builder.Services.AddSingleton<AESEncryption>(new AESEncryption(encryptionKey));
 // Register RSA encryption service
 builder.Services.AddScoped<RSAEncryption>();
 
+// Register command handlers for encryption with mediatr
+builder.Services.AddTransient<IRequestHandler<EncryptPasswordCommand, string>, EncryptPasswordCommandHandler>();
+builder.Services.AddTransient<IRequestHandler<DecryptPasswordCommand, string>, DecryptPasswordCommandHandler>();
 
-//var encryptionKey = "ENC"; // Replace with a secure key from configuration
-//builder.Services.AddSingleton<Encrypt>(new AESEncryption(encryptionKey));
-//builder.Services.AddSingleton<RSAEncryption>();
+// Register Jaeger
+builder.Services.AddOpenTelemetry().WithTracing(b =>
+{
+    b.SetResourceBuilder(
+        ResourceBuilder.CreateDefault().AddService(builder.Environment.ApplicationName))
+    .AddAspNetCoreInstrumentation()
+    .AddOtlpExporter(opts => { opts.Endpoint = new Uri("http://localhost:7186"); });
+});
 
 var app = builder.Build();
 
