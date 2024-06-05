@@ -39,7 +39,7 @@ jobs:
         if: steps.cache-sonar-scanner.outputs.cache-hit != 'true'
         run: |
           dotnet tool install --global dotnet-sonarscanner
-          echo "::add-path::${{ runner.tool_cache }}/dotnet/tools"
+          echo "${{ runner.tool_cache }}/dotnet/tools" >> $GITHUB_PATH
 
       - name: Build and analyze
         env:
@@ -49,4 +49,3 @@ jobs:
           dotnet-sonarscanner begin /k:"UserDataAPI" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
-
